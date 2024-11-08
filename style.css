@@ -1,0 +1,58 @@
+* {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+
+header {
+    
+    font-size: 20px;
+}
+
+.bigContainer {
+    display: grid;
+    grid-template-columns: 32vw 32vw 32vw;
+    grid-template-rows: 21vh 21vh 21vh 22vh;
+    gap: 10px;
+}
+
+#c1 {
+    background-color: lightgray;
+}
+
+#c2 {
+    background-color: lightgray;
+}
+
+#c3 {
+    background-color: lightgray;
+}
+
+#c4 {
+    background-color: lightgray;
+}
+
+#c5 {
+    background-color: lightgray;
+}
+
+#c6 {
+    background-color: lightgray;
+}
+
+#c7 {
+    background-color: lightgray;
+}
+
+#c8 {
+    background-color: lightgray;
+}
+
+#c9 {
+    background-color: lightgray;
+}
+
+#c10 {
+    background-color: black;
+    grid-area: 4/1/4/4;
+    color: white;
+}
